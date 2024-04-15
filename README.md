@@ -34,6 +34,13 @@ Código: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algori
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/Assets/shortest_path_visiting_all_nodes.png)<br>
 
+# Exercício 4 [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)<br>
+
+Dificuldade: Média<br>
+Código: [Number of Provinces](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/CodigosLeetCode/number_of_provinces.c)
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/Assets/number_of_provinces.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 
