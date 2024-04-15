@@ -27,6 +27,12 @@ Código: [Longest_Cycle_in_a_Graph](https://github.com/projeto-de-algoritmos-202
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/Assets/longest_Cycle_in_a_Graph.png)<br>
 
+# Exercício 3 [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
+
+Dificuldade: Dificil<br>
+Código: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/CodigosLeetCode/shortest_path_visiting_all_nodes.c)<br>
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_leetcode.com/blob/master/Assets/shortest_path_visiting_all_nodes.png)<br>
 
 ## Instalação 
 **Linguagem**: C<br>
