@@ -50,7 +50,8 @@ Copiar o código de alguma solução e colar no respectivo problema no [leetcode
 ou compilar e rodar o código grafo.c que está localizado na pasta testadorGrafo<br>
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+[Vídeo sobre o trabalho](https://www.youtube.com/watch?v=jezMVSXbrr0)
 
 
 
